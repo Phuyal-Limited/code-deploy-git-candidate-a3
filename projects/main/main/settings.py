@@ -86,7 +86,7 @@ DATABASES = {
         'NAME': 'master',
         'USER': 'master',
         'PASSWORD': '00d647Pw43%9',
-        'HOST': 'aurora-rdscluster-jxhi6ddshlaf.cluster-chsx8mwjsaup.us-east-1.rds.amazonaws.com',   # Or an IP Address that your DB is hosted on
+        'HOST': 'aurora-rdscluster-11batjtrdrk3r.cluster-cjonjebqav4i.us-east-1.rds.amazonaws.com',   # Or an IP Address that your DB is hosted on
         'PORT': '3306',
     }
 }
